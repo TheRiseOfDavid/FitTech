@@ -1,0 +1,35 @@
+E:\X\作業\惠特產學合作\曲線擬合\Curve Fitting\bin\Debug\Curve Fitting.exe.config
+E:\X\作業\惠特產學合作\曲線擬合\Curve Fitting\bin\Debug\Curve Fitting.exe
+E:\X\作業\惠特產學合作\曲線擬合\Curve Fitting\bin\Debug\Curve Fitting.pdb
+E:\X\作業\惠特產學合作\曲線擬合\Curve Fitting\obj\Debug\Curve Fitting.csprojAssemblyReference.cache
+E:\X\作業\惠特產學合作\曲線擬合\Curve Fitting\obj\Debug\Curve_Fitting.Form1.resources
+E:\X\作業\惠特產學合作\曲線擬合\Curve Fitting\obj\Debug\Curve_Fitting.Properties.Resources.resources
+E:\X\作業\惠特產學合作\曲線擬合\Curve Fitting\obj\Debug\Curve Fitting.csproj.GenerateResource.cache
+E:\X\作業\惠特產學合作\曲線擬合\Curve Fitting\obj\Debug\Curve Fitting.exe
+E:\X\作業\惠特產學合作\曲線擬合\Curve Fitting\obj\Debug\Curve Fitting.pdb
+E:\X\作業\惠特產學合作\曲線擬合\Curve Fitting\bin\Debug\Spire.License.dll
+E:\X\作業\惠特產學合作\曲線擬合\Curve Fitting\bin\Debug\Spire.Pdf.dll
+E:\X\作業\惠特產學合作\曲線擬合\Curve Fitting\bin\Debug\Spire.XLS.dll
+E:\X\作業\惠特產學合作\曲線擬合\Curve Fitting\bin\Debug\Microsoft.mshtml.dll
+E:\X\作業\惠特產學合作\曲線擬合\Curve Fitting\bin\Debug\Spire.License.xml
+E:\X\作業\惠特產學合作\曲線擬合\Curve Fitting\bin\Debug\Spire.Pdf.xml
+E:\X\作業\惠特產學合作\曲線擬合\Curve Fitting\bin\Debug\Spire.XLS.xml
+E:\X\作業\惠特產學合作\曲線擬合\Curve Fitting\obj\Debug\Curve Fitting.csproj.CopyComplete
+C:\david\Project\惠特\專題二-曲線擬合\Curve_Fitting\bin\Debug\Curve Fitting.exe.config
+C:\david\Project\惠特\專題二-曲線擬合\Curve_Fitting\bin\Debug\Curve Fitting.exe
+C:\david\Project\惠特\專題二-曲線擬合\Curve_Fitting\bin\Debug\Curve Fitting.pdb
+C:\david\Project\惠特\專題二-曲線擬合\Curve_Fitting\bin\Debug\Spire.License.dll
+C:\david\Project\惠特\專題二-曲線擬合\Curve_Fitting\bin\Debug\Spire.Pdf.dll
+C:\david\Project\惠特\專題二-曲線擬合\Curve_Fitting\bin\Debug\Spire.XLS.dll
+C:\david\Project\惠特\專題二-曲線擬合\Curve_Fitting\bin\Debug\Microsoft.mshtml.dll
+C:\david\Project\惠特\專題二-曲線擬合\Curve_Fitting\bin\Debug\Spire.License.xml
+C:\david\Project\惠特\專題二-曲線擬合\Curve_Fitting\bin\Debug\Spire.Pdf.xml
+C:\david\Project\惠特\專題二-曲線擬合\Curve_Fitting\bin\Debug\Spire.XLS.xml
+C:\david\Project\惠特\專題二-曲線擬合\Curve_Fitting\obj\Debug\Curve Fitting.csprojAssemblyReference.cache
+C:\david\Project\惠特\專題二-曲線擬合\Curve_Fitting\obj\Debug\Curve_Fitting.Form1.resources
+C:\david\Project\惠特\專題二-曲線擬合\Curve_Fitting\obj\Debug\Curve_Fitting.Properties.Resources.resources
+C:\david\Project\惠特\專題二-曲線擬合\Curve_Fitting\obj\Debug\Curve Fitting.csproj.GenerateResource.cache
+C:\david\Project\惠特\專題二-曲線擬合\Curve_Fitting\obj\Debug\Curve Fitting.csproj.CoreCompileInputs.cache
+C:\david\Project\惠特\專題二-曲線擬合\Curve_Fitting\obj\Debug\Curve Fitting.csproj.CopyComplete
+C:\david\Project\惠特\專題二-曲線擬合\Curve_Fitting\obj\Debug\Curve Fitting.exe
+C:\david\Project\惠特\專題二-曲線擬合\Curve_Fitting\obj\Debug\Curve Fitting.pdb

@@ -1,0 +1,22 @@
+D:\NTUT\產學合作\惠特\專題一-資料內插\Image_Repair\bin\x64\Release\Image repair.exe.config
+D:\NTUT\產學合作\惠特\專題一-資料內插\Image_Repair\bin\x64\Release\Image repair.exe
+D:\NTUT\產學合作\惠特\專題一-資料內插\Image_Repair\bin\x64\Release\Image repair.pdb
+D:\NTUT\產學合作\惠特\專題一-資料內插\Image_Repair\bin\x64\Release\gauss.dll
+D:\NTUT\產學合作\惠特\專題一-資料內插\Image_Repair\bin\x64\Release\Spire.License.dll
+D:\NTUT\產學合作\惠特\專題一-資料內插\Image_Repair\bin\x64\Release\Spire.Pdf.dll
+D:\NTUT\產學合作\惠特\專題一-資料內插\Image_Repair\bin\x64\Release\Spire.XLS.dll
+D:\NTUT\產學合作\惠特\專題一-資料內插\Image_Repair\bin\x64\Release\Microsoft.mshtml.dll
+D:\NTUT\產學合作\惠特\專題一-資料內插\Image_Repair\bin\x64\Release\gauss.pdb
+D:\NTUT\產學合作\惠特\專題一-資料內插\Image_Repair\bin\x64\Release\Spire.License.xml
+D:\NTUT\產學合作\惠特\專題一-資料內插\Image_Repair\bin\x64\Release\Spire.Pdf.xml
+D:\NTUT\產學合作\惠特\專題一-資料內插\Image_Repair\bin\x64\Release\Spire.XLS.xml
+D:\NTUT\產學合作\惠特\專題一-資料內插\Image_Repair\obj\x64\Release\Image repair.csprojAssemblyReference.cache
+D:\NTUT\產學合作\惠特\專題一-資料內插\Image_Repair\obj\x64\Release\Interop.ADODB.dll
+D:\NTUT\產學合作\惠特\專題一-資料內插\Image_Repair\obj\x64\Release\Image repair.csproj.ResolveComReference.cache
+D:\NTUT\產學合作\惠特\專題一-資料內插\Image_Repair\obj\x64\Release\Image_repair.Form1.resources
+D:\NTUT\產學合作\惠特\專題一-資料內插\Image_Repair\obj\x64\Release\Image_repair.Properties.Resources.resources
+D:\NTUT\產學合作\惠特\專題一-資料內插\Image_Repair\obj\x64\Release\Image repair.csproj.GenerateResource.cache
+D:\NTUT\產學合作\惠特\專題一-資料內插\Image_Repair\obj\x64\Release\Image repair.csproj.CoreCompileInputs.cache
+D:\NTUT\產學合作\惠特\專題一-資料內插\Image_Repair\obj\x64\Release\Image repair.csproj.CopyComplete
+D:\NTUT\產學合作\惠特\專題一-資料內插\Image_Repair\obj\x64\Release\Image repair.exe
+D:\NTUT\產學合作\惠特\專題一-資料內插\Image_Repair\obj\x64\Release\Image repair.pdb

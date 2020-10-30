@@ -1,0 +1,15 @@
+n matrix  runtime  os     ram      omega runtime
+2000      37s      32bit   3g      1.1   15s
+3000      79s      64bit   6g      1.1   34s
+5000      322s     64bit  16g(max) 1.1  258s
+8000      880s     64bit  16g(max) 1.1  674s
+
+P.S.
+A = 由於先前測試並沒有注意到記憶體空間大小，因而沒做紀錄。待之後紀錄補上
+
+
+log
+電腦要改成 64bit
+須加上     <runtime>
+      <gcAllowVeryLargeObjects enabled="true" />
+    </runtime>

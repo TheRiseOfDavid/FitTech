@@ -1,0 +1,50 @@
+C:\Users\User\AppData\Local\Temporary Projects\laplace_demo_int_array\bin\Debug\laplace_demo_int_array.exe.config
+C:\Users\User\AppData\Local\Temporary Projects\laplace_demo_int_array\bin\Debug\laplace_demo_int_array.exe
+C:\Users\User\AppData\Local\Temporary Projects\laplace_demo_int_array\bin\Debug\laplace_demo_int_array.pdb
+C:\Users\User\AppData\Local\Temporary Projects\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.csprojAssemblyReference.cache
+C:\Users\User\AppData\Local\Temporary Projects\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.Properties.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.csproj.GenerateResource.cache
+C:\Users\User\AppData\Local\Temporary Projects\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.csproj.CoreCompileInputs.cache
+C:\Users\User\AppData\Local\Temporary Projects\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.exe
+C:\Users\User\AppData\Local\Temporary Projects\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.pdb
+C:\david\惠特\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\bin\Debug\laplace_demo_int_array.exe.config
+C:\david\惠特\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\bin\Debug\laplace_demo_int_array.exe
+C:\david\惠特\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\bin\Debug\laplace_demo_int_array.pdb
+C:\david\惠特\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.csprojAssemblyReference.cache
+C:\david\惠特\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.Form1.resources
+C:\david\惠特\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.Properties.Resources.resources
+C:\david\惠特\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.csproj.GenerateResource.cache
+C:\david\惠特\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.csproj.CoreCompileInputs.cache
+C:\david\惠特\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.exe
+C:\david\惠特\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.pdb
+C:\david\Project\惠特\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\bin\Debug\laplace_demo_int_array.exe.config
+C:\david\Project\惠特\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\bin\Debug\laplace_demo_int_array.exe
+C:\david\Project\惠特\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\bin\Debug\laplace_demo_int_array.pdb
+C:\david\Project\惠特\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.csprojAssemblyReference.cache
+C:\david\Project\惠特\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.Form1.resources
+C:\david\Project\惠特\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.Properties.Resources.resources
+C:\david\Project\惠特\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.csproj.GenerateResource.cache
+C:\david\Project\惠特\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.csproj.CoreCompileInputs.cache
+C:\david\Project\惠特\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.exe
+C:\david\Project\惠特\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.pdb
+D:\NTUT\產學合作\FitTech\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\bin\Debug\laplace_demo_int_array.exe.config
+D:\NTUT\產學合作\FitTech\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\bin\Debug\laplace_demo_int_array.exe
+D:\NTUT\產學合作\FitTech\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\bin\Debug\laplace_demo_int_array.pdb
+D:\NTUT\產學合作\FitTech\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.csprojAssemblyReference.cache
+D:\NTUT\產學合作\FitTech\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.Form1.resources
+D:\NTUT\產學合作\FitTech\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.Properties.Resources.resources
+D:\NTUT\產學合作\FitTech\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.csproj.GenerateResource.cache
+D:\NTUT\產學合作\FitTech\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.csproj.CoreCompileInputs.cache
+D:\NTUT\產學合作\FitTech\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.exe
+D:\NTUT\產學合作\FitTech\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.pdb
+E:\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\bin\Debug\laplace_demo_int_array.exe.config
+E:\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\bin\Debug\laplace_demo_int_array.exe
+E:\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\bin\Debug\laplace_demo_int_array.pdb
+E:\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.csprojAssemblyReference.cache
+E:\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.Form1.resources
+E:\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.Properties.Resources.resources
+E:\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.csproj.GenerateResource.cache
+E:\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.csproj.CoreCompileInputs.cache
+E:\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.exe
+E:\專題一-資料內插\laplace_demo_int_array\laplace_demo_int_array\obj\Debug\laplace_demo_int_array.pdb
