@@ -148,7 +148,7 @@
             this.radioButton_InputArrayFormat.AutoSize = true;
             this.radioButton_InputArrayFormat.Location = new System.Drawing.Point(24, 556);
             this.radioButton_InputArrayFormat.Name = "radioButton_InputArrayFormat";
-            this.radioButton_InputArrayFormat.Size = new System.Drawing.Size(122, 20);
+            this.radioButton_InputArrayFormat.Size = new System.Drawing.Size(150, 24);
             this.radioButton_InputArrayFormat.TabIndex = 6;
             this.radioButton_InputArrayFormat.TabStop = true;
             this.radioButton_InputArrayFormat.Text = "Array Format";
@@ -159,7 +159,7 @@
             this.radioButton_InputLOPXYFormat.AutoSize = true;
             this.radioButton_InputLOPXYFormat.Location = new System.Drawing.Point(24, 528);
             this.radioButton_InputLOPXYFormat.Name = "radioButton_InputLOPXYFormat";
-            this.radioButton_InputLOPXYFormat.Size = new System.Drawing.Size(130, 20);
+            this.radioButton_InputLOPXYFormat.Size = new System.Drawing.Size(160, 24);
             this.radioButton_InputLOPXYFormat.TabIndex = 5;
             this.radioButton_InputLOPXYFormat.TabStop = true;
             this.radioButton_InputLOPXYFormat.Text = "LOP XY Format";
@@ -170,7 +170,7 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(20, 27);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(160, 16);
+            this.label1.Size = new System.Drawing.Size(199, 20);
             this.label1.TabIndex = 3;
             this.label1.Text = "InputData 輸入資料:";
             // 
@@ -203,7 +203,7 @@
             this.radioButton_OutputArrayFormat.AutoSize = true;
             this.radioButton_OutputArrayFormat.Location = new System.Drawing.Point(22, 558);
             this.radioButton_OutputArrayFormat.Name = "radioButton_OutputArrayFormat";
-            this.radioButton_OutputArrayFormat.Size = new System.Drawing.Size(122, 20);
+            this.radioButton_OutputArrayFormat.Size = new System.Drawing.Size(150, 24);
             this.radioButton_OutputArrayFormat.TabIndex = 8;
             this.radioButton_OutputArrayFormat.TabStop = true;
             this.radioButton_OutputArrayFormat.Text = "Array Format";
@@ -214,7 +214,7 @@
             this.radioButton_OutputLOPXYFormat.AutoSize = true;
             this.radioButton_OutputLOPXYFormat.Location = new System.Drawing.Point(22, 528);
             this.radioButton_OutputLOPXYFormat.Name = "radioButton_OutputLOPXYFormat";
-            this.radioButton_OutputLOPXYFormat.Size = new System.Drawing.Size(130, 20);
+            this.radioButton_OutputLOPXYFormat.Size = new System.Drawing.Size(160, 24);
             this.radioButton_OutputLOPXYFormat.TabIndex = 7;
             this.radioButton_OutputLOPXYFormat.TabStop = true;
             this.radioButton_OutputLOPXYFormat.Text = "LOP XY Format";
@@ -225,7 +225,7 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(18, 27);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(168, 16);
+            this.label3.Size = new System.Drawing.Size(209, 20);
             this.label3.TabIndex = 5;
             this.label3.Text = "OutputData 輸出資料:";
             // 
@@ -248,10 +248,9 @@
             this.updateLogToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1306, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(1306, 28);
             this.menuStrip1.TabIndex = 6;
             this.menuStrip1.Text = "MenuStrip";
-            this.menuStrip1.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.menuStrip1_ItemClicked);
             // 
             // MenuToolStripMenuItem
             // 
@@ -262,56 +261,56 @@
             this.toolStripSeparator1,
             this.exitToolStripMenuItem});
             this.MenuToolStripMenuItem.Name = "MenuToolStripMenuItem";
-            this.MenuToolStripMenuItem.Size = new System.Drawing.Size(91, 20);
+            this.MenuToolStripMenuItem.Size = new System.Drawing.Size(112, 24);
             this.MenuToolStripMenuItem.Text = "主選單 Menu";
             // 
             // readFileToolStripMenuItem
             // 
             this.readFileToolStripMenuItem.Name = "readFileToolStripMenuItem";
-            this.readFileToolStripMenuItem.Size = new System.Drawing.Size(184, 22);
+            this.readFileToolStripMenuItem.Size = new System.Drawing.Size(229, 26);
             this.readFileToolStripMenuItem.Text = "讀取檔案 ReadFile";
             // 
             // convertToolStripMenuItem
             // 
             this.convertToolStripMenuItem.Name = "convertToolStripMenuItem";
-            this.convertToolStripMenuItem.Size = new System.Drawing.Size(184, 22);
+            this.convertToolStripMenuItem.Size = new System.Drawing.Size(229, 26);
             this.convertToolStripMenuItem.Text = "轉換 Convert";
             // 
             // outputFileToolStripMenuItem
             // 
             this.outputFileToolStripMenuItem.Name = "outputFileToolStripMenuItem";
-            this.outputFileToolStripMenuItem.Size = new System.Drawing.Size(184, 22);
+            this.outputFileToolStripMenuItem.Size = new System.Drawing.Size(229, 26);
             this.outputFileToolStripMenuItem.Text = "輸出檔案 OutputFile";
             // 
             // toolStripSeparator1
             // 
             this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(181, 6);
+            this.toolStripSeparator1.Size = new System.Drawing.Size(226, 6);
             // 
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(184, 22);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(229, 26);
             this.exitToolStripMenuItem.Text = "結束 Exit";
             this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
             // 
             // explanationToolStripMenuItem
             // 
             this.explanationToolStripMenuItem.Name = "explanationToolStripMenuItem";
-            this.explanationToolStripMenuItem.Size = new System.Drawing.Size(113, 20);
+            this.explanationToolStripMenuItem.Size = new System.Drawing.Size(137, 24);
             this.explanationToolStripMenuItem.Text = "說明 Explanation";
             this.explanationToolStripMenuItem.Click += new System.EventHandler(this.explanationToolStripMenuItem_Click);
             // 
             // updateLogToolStripMenuItem
             // 
             this.updateLogToolStripMenuItem.Name = "updateLogToolStripMenuItem";
-            this.updateLogToolStripMenuItem.Size = new System.Drawing.Size(135, 20);
+            this.updateLogToolStripMenuItem.Size = new System.Drawing.Size(165, 24);
             this.updateLogToolStripMenuItem.Text = "更新日誌 Update log";
             this.updateLogToolStripMenuItem.Click += new System.EventHandler(this.updateLogToolStripMenuItem_Click);
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1306, 635);
             this.Controls.Add(this.groupBoxOutput);

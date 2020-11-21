@@ -111,8 +111,20 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Image_Repair_Function.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Intput_Function.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Output_Function.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Show_Data.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
